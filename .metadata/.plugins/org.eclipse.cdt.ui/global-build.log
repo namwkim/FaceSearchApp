@@ -1,0 +1,42 @@
+18:57:28 **** Build of configuration Default for project OpenCV Sample - face-detection ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+18:57:29 **** Build of configuration Default for project OpenCV Sample - native-activity ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+18:57:29 **** Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+18:57:31 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+18:57:31 **** Auto Build of configuration Default for project OpenCV Sample - native-activity ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+18:57:31 **** Auto Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+/ndk-build.cmd 
+Cannot run program "/ndk-build.cmd": Unknown reason
+
+Error: Program "/ndk-build.cmd" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+19:02:06 **** Clean-only build of configuration Default for project OpenCV Library - 2.4.9 ****
+/ndk-build clean 
+Cannot run program "/ndk-build": Unknown reason
+
+Error: Program "/ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]

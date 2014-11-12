@@ -1,0 +1,34 @@
+!SESSION 2014-10-06 18:53:40.398 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -keyring /Users/namwkim85/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -data /Users/namwkim85/Development/cbvr/JNI FaceSearch -product com.android.ide.eclipse.adt.package.product -keyring /Users/namwkim85/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:28.589
+!MESSAGE Indexed 'OpenCV Sample - 15 puzzle' (1 sources, 0 headers) in 0.35 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:28.637
+!MESSAGE Indexed 'OpenCV Library - 2.4.9' (1 sources, 0 headers) in 0.03 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:39.603
+!MESSAGE Indexed 'OpenCV Sample - native-activity' (1 sources, 10 headers) in 10.96 sec: 12,992 declarations; 17,438 references; 31 unresolved inclusions; 0 syntax errors; 1,474 unresolved names (4.62%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:39.617
+!MESSAGE Indexed 'OpenCV Sample - camera-calibration' (1 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:39.623
+!MESSAGE Indexed 'OpenCV Tutorial 1 - Camera Preview' (1 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:42.863
+!MESSAGE Indexed 'OpenCV Sample - face-detection' (1 sources, 8 headers) in 3.23 sec: 9,894 declarations; 14,003 references; 28 unresolved inclusions; 12 syntax errors; 1,556 unresolved names (6.11%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:42.877
+!MESSAGE Indexed 'OpenCV Sample - color-blob-detection' (1 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:45.581
+!MESSAGE Indexed 'OpenCV Tutorial 2 - Mixed Processing' (1 sources, 12 headers) in 2.70 sec: 13,579 declarations; 17,757 references; 24 unresolved inclusions; 2 syntax errors; 1,840 unresolved names (5.55%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-06 18:57:45.602
+!MESSAGE Indexed 'OpenCV Tutorial 3 - Camera Control' (1 sources, 0 headers) in 0.01 sec: 0 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
