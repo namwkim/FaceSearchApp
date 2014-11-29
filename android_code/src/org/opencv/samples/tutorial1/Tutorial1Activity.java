@@ -145,7 +145,7 @@ public class Tutorial1Activity extends Activity /*implements CvCameraViewListene
 	String[] jOutputFileNames = new String[jNumFaceResults];
 	float[] jOutputScores = new float[jNumFaceResults];
 	
-	String[] jCategories = {"faces", "faces2"};
+	String[] jCategories = {"faces"};
 	
 	String[] imageNames;
 	
@@ -370,6 +370,12 @@ public class Tutorial1Activity extends Activity /*implements CvCameraViewListene
         	//
         	Log.i(TAG, "INPUT FILE: "+ params[0]);
         	int retVal = searchFace(params[0], "/storage/emulated/0/sample/db", jCategories, jNumFaceResults, jOutputFileNames, jOutputScores);
+        	//display gridview
+//            for (int i=0; i<jOutputFileNames.length; i++){
+//                if (jOutputFileNames[i].length() > 0 && jOutputFileNames[i].charAt(jOutputFileNames[i].length()-1)=='3') {
+//                	jOutputFileNames[i] = jOutputFileNames[i].substring(0, jOutputFileNames[i].length()-1);
+//                }            	
+//            }
             //return value 0: failed; 1: successful
         	return ((retVal!=0) ? "Failed" : "Successful");
         }
@@ -386,12 +392,7 @@ public class Tutorial1Activity extends Activity /*implements CvCameraViewListene
         	btnInputImage.setEnabled(true); 
             btnTakePhoto.setEnabled(true);
         	
-        	//display gridview
-            for (int i=0; i<jOutputFileNames.length; i++){
-                if (jOutputFileNames[i].length() > 0 && jOutputFileNames[i].charAt(jOutputFileNames[i].length()-1)=='3') {
-                	jOutputFileNames[i] = jOutputFileNames[i].substring(0, jOutputFileNames[i].length()-1);
-                }            	
-            }
+
             imageNames = jOutputFileNames;
             
             if (imageNames.length >= 0)
